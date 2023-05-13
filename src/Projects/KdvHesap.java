@@ -7,7 +7,6 @@ public class KdvHesap {
         double kdvOrani;
         int sayi;
 
-
         Scanner input= new Scanner(System.in);
         System.out.print("Lütfen para tutarını giriniz: ");
         sayi= input.nextInt();
@@ -19,7 +18,6 @@ public class KdvHesap {
         System.out.println("KDV Oranı: "+kdvOrani);
         System.out.println("KDV Tutarı: "+kdvTutar);
         System.out.print("KDV'li tutar: "+kdvliTutar);
-
 
     }
 }
