@@ -21,7 +21,7 @@ public class DikUcgendeHipotenusHesabi {
         u=(aKenari+bKenari+hipotenus)/2;
         cevre= 2*u;
         alan=Math.sqrt(u*(u-aKenari)*(u-bKenari)*(u-hipotenus));
-        
+
         System.out.println("cevre: "+cevre);
         System.out.println("alan: "+alan);
 
