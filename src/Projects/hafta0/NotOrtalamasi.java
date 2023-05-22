@@ -1,4 +1,4 @@
-package Projects;
+package Projects.hafta0;
 
 import java.util.Scanner;
 
