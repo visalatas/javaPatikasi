@@ -168,6 +168,8 @@ public class BurcHesabi {
         System.out.print("Hatalı Giriş Yaptınız.");
     else
         System.out.print("Burcunuz: "+ burc);
+
     }
+
 
 }
