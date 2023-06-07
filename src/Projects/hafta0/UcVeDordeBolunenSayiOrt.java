@@ -18,7 +18,7 @@ public class UcVeDordeBolunenSayiOrt {
             }
         }
         System.out.println(sum/count);
-        
+
 
     }
 }
