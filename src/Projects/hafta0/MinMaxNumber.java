@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class MinMaxNumber {
     public static void main(String[] args) {
+        /* Kaç sayı girmek istediğine göre , girdiği sayıların arasından minumum ve maximum değeri ekrana yazdıran program*/
         int number, max=1;
         int min=1 ;
         Scanner inp=new Scanner(System.in);
